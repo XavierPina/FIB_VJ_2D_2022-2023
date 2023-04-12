@@ -1,0 +1,35 @@
+TILEMAP
+36 28 							-- Size of tile map in tiles
+16 16 							-- Tile size & block size
+images/bloques4.png 	-- Tilesheet
+8 8 								-- Number of tiles in tilesheet
+J                                  I
+I                                  J
+J                                  I
+I                                  J
+JIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJIJI
+I  J                            I  J
+JIJI                            JIJI
+IJIJ                            IJIJ
+JIJI                            JIJI
+IJIJ                  78        IJIJ
+JIJI                  ?@        JIJI
+IJIJ      4555555555555556      IJIJ
+JIJI            ABBC            JIJI
+IJIJ            ABBC            IJIJ
+JIJI    45555555ABBC55555556    JIJI
+IJIJ            ABBC            IJIJ
+JIJI            ABBC            JIJI
+IJIJ  4555555555ABBC5555555556  IJIJ
+JIJI                            JIJI
+IJIJ                            IJIJ
+JIJI  4556                4556  JIJI
+IJIJ                            IJIJ
+JIJI                            JIJI
+IJIJ  46                    46  IJIJ
+JIJI                            JIJI
+IJIJ                            IJIJ
+JIJI5555555556        4555555555JIJI
+IJIJIJIJIJIJIJDDDDDDDDIJIJIJIJIJIJIJ
+
+
